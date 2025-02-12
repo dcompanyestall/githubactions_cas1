@@ -1,4 +1,6 @@
 name: Docker Image CI
+# Faig login a Dockerhub - necessari generar Token a DockerHub
+# Faig build d ela imatge i la pujo a Docker Hub
 
 on:
   push:
